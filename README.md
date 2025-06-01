@@ -2,7 +2,8 @@
 
 ###
 
-<h6 align="left">Atuando na área operacional de Recrutamento e Seleção e também sou estudante de Engenharia de Software 🎓. Tenho um grande interesse em entender como a tecnologia e a organização se conectam para gerar mais eficiência e valor dentro das empresas 🚀. Atualmente, estou focado em aprimorar minhas habilidades em C# e reforçar minha base em lógica de programação 💻.</h6>
+<h4 align="left">Atuo na área operacional de Recrutamento e Seleção ⚙️, com foco na otimização de processos e suporte estratégico à equipe. Paralelamente, sou estudante de Engenharia de Software 🎓, aprofundando conhecimentos em arquitetura de sistemas, lógica de programação, estruturas de dados e POO 💻.
+Tenho grande interesse em como a tecnologia pode integrar pessoas, processos e sistemas para gerar mais eficiência e valor nas organizações 🚀.</h4>
 
 ###
 
