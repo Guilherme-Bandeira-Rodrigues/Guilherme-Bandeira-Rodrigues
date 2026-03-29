@@ -2,8 +2,8 @@
 
 ###
 
-<h4 align="left">Atuo na área operacional de Recrutamento e Seleção ⚙️, com foco na otimização de processos e suporte estratégico à equipe. Paralelamente, sou estudante de Engenharia de Software 🎓, aprofundando conhecimentos em arquitetura de sistemas, lógica de programação, estruturas de dados e POO 💻.
-Tenho grande interesse em como a tecnologia pode integrar pessoas, processos e sistemas para gerar mais eficiência e valor nas organizações 🚀.</h4>
+<h4 align="left">Atuo na área de processos automatizados como assistente de requisitos, traduzindo necessidades do negócio em especificações claras e estruturadas para desenvolvimento pela equipe de TI. Paralelamente, sou estudante de Engenharia de Software 🎓, aprofundando conhecimentos em automações, lógica de programação, estruturas de dados e POO 💻.
+Tenho grande interesse em como automações, processos e sistemas para gerar mais eficiência e valor nas organizações 🚀.</h4>
 
 ###
 
